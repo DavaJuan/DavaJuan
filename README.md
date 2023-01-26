@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1 aling="center">Hi!👋, I'm Juan Dávalos</h1>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-  <h3 aling="center">A pasionate web fullstack develper from Argentina. I started to study programming at the end of the year 2021 and I found something that I   really love. Nowadays I'm improving my skills as a programmer. 💻</h3>
+  <h3 aling="center">A pasionate web fullstack developer from Argentina. I started to study programming at the end of the year 2021 and I found something that I   really love. Nowadays I'm improving my skills as a programmer. 💻</h3>
 </div>
 
 ---
