@@ -14,7 +14,7 @@
 
 - How to contac me: **davalosjuanpablo038@gmail.com**
 
-- English Studen
+- English Student
 
 ---
 
